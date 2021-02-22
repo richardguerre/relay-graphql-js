@@ -16,6 +16,6 @@
     "graphql-config": ">=3.0.0"
   },
   "devDependencies": {
-    "graphql-config": "^3.0.3"
+    "graphql-config": "3.0.3"
   }
 }

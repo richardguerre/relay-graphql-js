@@ -13,7 +13,7 @@
   "author": "Rikki <rikki.schulte@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "@relay-graphql-js/generate-config": "^0.0.1"
+    "@relay-graphql-js/generate-config": "0.0.1"
   },
   "peerDependencies": {
     "graphql": ">= 14 < 16"
